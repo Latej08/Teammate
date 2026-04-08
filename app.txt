@@ -1,1 +1,1 @@
-Application version: 1.0
+Application Version: 1.1 - Main Branch HotFix 
